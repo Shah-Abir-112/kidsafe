@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "659453243123",
+    "project_id": "kidsafe-269b5",
+    "storage_bucket": "kidsafe-269b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659453243123:android:93121b42fe9c4e48b41186",
+        "android_client_info": {
+          "package_name": "com.example.kidsafe.child"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSLyHeVedcBX9GeoOrCPwJ45U4jBPbM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659453243123:android:2c181491cf499722b41186",
+        "android_client_info": {
+          "package_name": "com.example.kidsafe.parent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSLyHeVedcBX9GeoOrCPwJ45U4jBPbM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
